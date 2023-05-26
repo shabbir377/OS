@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HH",
+            "request": "launch",
+            "mainClass": "HH",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "FCFS_WITHAT",
+            "request": "launch",
+            "mainClass": "FCFS_WITHAT",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "WorstFit",
+            "request": "launch",
+            "mainClass": "WorstFit",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "Worst_Fit",
+            "request": "launch",
+            "mainClass": "Worst_Fit",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "BestFit",
+            "request": "launch",
+            "mainClass": "BestFit",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "Best_Fit",
+            "request": "launch",
+            "mainClass": "Best_Fit",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "FirstFit",
+            "request": "launch",
+            "mainClass": "FirstFit",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "first_fit",
+            "request": "launch",
+            "mainClass": "first_fit",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "firstFit",
+            "request": "launch",
+            "mainClass": "firstFit",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "Memory",
+            "request": "launch",
+            "mainClass": "Memory",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "ProducerConsumerEg",
+            "request": "launch",
+            "mainClass": "ProducerConsumerEg",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "Roundrobin_with_arrival",
+            "request": "launch",
+            "mainClass": "Roundrobin_with_arrival",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "Roundrobin_with_arrival",
+            "request": "launch",
+            "mainClass": "src.Roundrobin_with_arrival",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "RRR",
+            "request": "launch",
+            "mainClass": "RRR",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "RRR",
+            "request": "launch",
+            "mainClass": "src.RRR",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "RR",
+            "request": "launch",
+            "mainClass": "RR",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "fcfsat",
+            "request": "launch",
+            "mainClass": "fcfsat",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "FCFS",
+            "request": "launch",
+            "mainClass": "FCFS",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "fcfs",
+            "request": "launch",
+            "mainClass": "fcfs",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FCFSsort",
+            "request": "launch",
+            "mainClass": "FCFSsort",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "FcFS",
+            "request": "launch",
+            "mainClass": "FcFS",
+            "projectName": "OS_dea0ac31"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "src.GFG",
+            "projectName": "OS_dea0ac31"
+        }
+    ]
+}
